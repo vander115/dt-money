@@ -16,7 +16,7 @@ export const HeaderContent = styled.div`
     align-items: center;
 `;
 
-export const NewTranscationButton = styled.button`
+export const NewTransactionButton = styled.button`
     cursor: pointer;
     height: 3.125rem;
     border: 0;

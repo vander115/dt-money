@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-12-22T17:36:46.597Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-12-22T17:40:46.597Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-12-22T18:47:24.021Z"
+    },
+    {
+      "description": "Criação de Back-End",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-12-26T18:00:54.834Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-26T18:26:07.936Z",
+      "id": 5
+    },
+    {
+      "description": "Abacate",
+      "price": 3,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-26T18:26:27.289Z",
+      "id": 6
+    },
+    {
+      "description": "Design de Site",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-12-26T18:26:54.635Z",
+      "id": 7
+    },
+    {
+      "description": "Smartphone",
+      "price": 3000,
+      "category": "Acessórios",
+      "type": "outcome",
+      "createdAt": "2023-12-26T19:27:35.206Z",
+      "id": 8
+    }
+  ]
+}
